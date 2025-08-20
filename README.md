@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a web-based application designed to assist with report writing, built as a voluntary project for a job application. The application leverages a large language model to help users generate and summarize content from JSON data, streamlining the report creation process. This project demonstrates proficiency in modern web application development, cloud deployment, and the integration of AI services.
+This project is a web-based application designed to generate reports/dashboards and also help users better understand, interpret, and gain insights from their data using a large language model.. This project demonstrates proficiency in modern web application development, cloud deployment, and the integration of AI services.
 
 ## App Demo
 
