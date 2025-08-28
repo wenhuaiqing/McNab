@@ -1,4 +1,4 @@
-# Project Report AI Assistant
+# Construction Project Report AI Assistant
 
 ## Description
 
@@ -8,6 +8,8 @@ This project is a web-based application designed to generate reports/dashboards 
 
 The live application can be accessed at:
 https://project-report-assistant01.nicerock-1d836c24.australiaeast.azurecontainerapps.io/
+
+Note: Since the application is on a free tier with zero instancing, it may take a minute or two to load during a cold start. Please be patient! ⏳
 
 ## Architecture
 
